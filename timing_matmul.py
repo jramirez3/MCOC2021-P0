@@ -17,4 +17,3 @@ t2 = perf_counter()
 dt = t2 - t1
 
 print(f"dt = {dt} s")
-
