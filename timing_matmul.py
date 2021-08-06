@@ -28,5 +28,5 @@ while NCorrida <= 10:
 		
 		file.write(f"{N};{dt};{memoria}\n")
 
-	file.close
+	file.close()
 	NCorrida += 1
