@@ -45,5 +45,20 @@
 * Proveedor internet: VTR Banda Ancha S.A.
 
 
+# Parte P02
 
 
+## Desempeño MATMUL
+
+![gráfico](Resultado_Gráfico.png)
+
+## Respuestas:
+
+* Los gráficos de mi equipo se muestran mas consistentes comparado con los del profesor/ayudante.
+* La diferencias en cada corrida podría ser por una sobrecarga del cpu, y por lo tanto el aumento de la temperatura hace que se ralentize un poco y no se sobrecaliente (cada corrida podría haber tenido distinta temperatura).
+* No se ve un comportamiento lineal pues, como se ve en el gráfico, mientras el CPU tenga capacidad, puede trabajar siempre a la misma velocidad. Así que una vez que tiene que trabajar mas de su capacidad ahí se empieza a ralentizar, pues se genera "cuello de botella" al tener mas datos de lo que la cpu pueda procesar.
+* Python 3.9.6
+* Numpy 1.21.1
+* Se utilizan todos los procesadores (4):
+
+![cpu](uso_de_cpu.png)
