@@ -237,3 +237,4 @@ for romano in romanos[1:5]:
 			file.close()
 			NCorrida += 1
 		plt.show()
+
