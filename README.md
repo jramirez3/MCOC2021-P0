@@ -90,9 +90,9 @@
 
 ##    Gráficos:
 
-![solver](Entrega 4/graficos_de_promedios/grafico_de_promedios_SOLVER.png)
+![solver](Entrega4/graficos_de_promedios/grafico_de_promedios_SOLVER.png)
 
-![eigh](Entrega 4/graficos_de_promedios/grafico_de_promedios_EIGH.png)
+![eigh](Entrega4/graficos_de_promedios/grafico_de_promedios_EIGH.png)
 
 
 
