@@ -100,18 +100,18 @@
 
 ### Matriz llena:
 
-'''
+```
 def matriz_laplaciana(N, t=double):
   e =  eye(N, dtype=t)-eye(N,N,1, dtype=t)
   return e+e.T
-'''
+```
 
 ### Matriz dispersa:
 
-'''
+```
 def matriz_laplaciana_sparse(N, t=double):
   return sparse.eye(N, format="csr", dtype=t)*2 - sparse.eye(N, k=1, format="csr", dtype=t) - sparse.eye(N, k=-1, format="csr", dtype=t)
-'''
+```
 
 # Gráficos:
 
