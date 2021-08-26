@@ -1,0 +1,242 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_Cas",
+				"_Caso_A_"
+			],
+			[
+				"set",
+				"set_xlabel"
+			],
+			[
+				"b",
+				"booleano"
+			],
+			[
+				"ro",
+				"romano"
+			],
+			[
+				"over",
+				"overwrite_a"
+			],
+			[
+				"d",
+				"dtype"
+			],
+			[
+				"dt",
+				"dt_ensamblaje"
+			],
+			[
+				"N",
+				"NCorrida"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/javierr/Documentos/MCOC2021-P0/Entrega 4/DOUBLE_Caso_A_I_PROMEDIOS.txt",
+		"/home/javierr/Documentos/MCOC2021-P0/Entrega 4/DOUBLE_Caso_A_VI_PROMEDIOS.txt",
+		"/home/javierr/Documentos/MCOC2021-P0/Entrega 4/timing_solve_eigh.py",
+		"/home/javierr/Documentos/MCOC2021-P0/Entrega 4/script_graficos.py",
+		"/home/javierr/Documentos/MCOC2021-P0/Entrega 4/script_graficar_promedios.py",
+		"/home/javierr/Documentos/MCOC2021-P0/Entrega 4/script_promedios.py",
+		"/home/javierr/Documentos/MCOC2021-P0/Entrega 4/DOUBLE_Caso_B_I_PROMEDIOS.txt",
+		"/home/javierr/Documentos/prueba.py",
+		"/home/javierr/Documentos/MCOC2021-P0/Entrega 4/FLOAT_Caso_A_III_corrida_N°10.txt",
+		"/home/javierr/Documentos/MCOC2021-P0/Entrega 4/FLOAT_Caso_B_II_overwrite_a_False_corrida_N°01.txt",
+		"/home/javierr/Documentos/MCOC2021-P0/Entrega 3/timing_inv_caso_1_double.py",
+		"/home/javierr/Documentos/MCOC2021-P0/Entrega 4/laplaciana.py",
+		"/home/javierr/Documentos/MCOC2021-P0/Entrega 4/Caso_A_I_corrida_N°01.txt",
+		"/home/javierr/Documentos/MCOC2021-P0/Entrega 3/tamaños de memoria.py",
+		"/home/javierr/Documentos/MCOC2021-P0/laplaciana.py",
+		"/home/javierr/Documentos/MCOC2021-P0/timing_inv_caso_1_double/Corrida N°10.txt",
+		"/home/javierr/Documentos/MCOC2021-P0/script_graficos.py",
+		"/home/javierr/Documentos/MCOC2021-P0/README.md",
+		"/home/javierr/Documentos/MCOC2021-P0/.git/config",
+		"/home/javierr/Documentos/MCOC2021-P0/timing_inv_caso_2_single/Corrida N°1.txt",
+		"/home/javierr/Documentos/MCOC2021-P0/tamaños de memoria.py",
+		"/home/javierr/Documentos/MCOC2021-P0/timing_inv_caso_2_double/Corrida N°1.txt",
+		"/home/javierr/.local/lib/python3.9/site-packages/numpy/lib/twodim_base.py",
+		"/home/javierr/Documentos/MCOC2021-P0/timing_inv_caso_2_longdouble/Corrida N°3.txt",
+		"/home/javierr/Documentos/MCOC2021-P0/timing_inv_caso_2_longdouble/Corrida N°10.txt",
+		"/home/javierr/Documentos/MCOC2021-P0/timing_inv_caso_2_half.py",
+		"/home/javierr/Documentos/MCOC2021-P0/timing_inv_caso_1_single.py",
+		"/home/javierr/Documentos/MCOC2021-P0/timing_inv_caso_1_longdouble.py",
+		"/home/javierr/Documentos/MCOC2021-P0/timing_inv_caso_1_half.py",
+		"/home/javierr/Documentos/MCOC2021-P0/timing_inv_caso_3_single .py",
+		"/home/javierr/Documentos/MCOC2021-P0/timing_inv_caso_3_longdouble .py",
+		"/home/javierr/Documentos/MCOC2021-P0/timing_inv_caso_3_half .py",
+		"/home/javierr/Documentos/MCOC2021-P0/timing_inv_caso_3_double .py",
+		"/home/javierr/Documentos/MCOC2021-P0/timing_inv_caso_2_longdouble.py",
+		"/home/javierr/Documentos/MCOC2021-P0/timing_inv_caso_2_single.py",
+		"/home/javierr/Documentos/MCOC2021-P0/timing_inv_caso_2_double.py",
+		"/home/javierr/Documentos/MCOC2021-P0/timing_inv_caso_1_double.py",
+		"/home/javierr/Documentos/MCOC2021-P0/desempeno_inv.py",
+		"/home/javierr/Documentos/clase-16-08/laplaciana.py",
+		"/home/javierr/Documentos/clase-16-08/desempeno_inv.py",
+		"/home/javierr/Documentos/MCOC2021-P0/ejemplo.py",
+		"/home/javierr/Documentos/MCOC2021-P0/timing_matmul.py",
+		"/home/javierr/Documentos/MCOC2021-P0/Resultado Gráfico.png",
+		"/home/javierr/Documentos/P1.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "timing_sparse.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

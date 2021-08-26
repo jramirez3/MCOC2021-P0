@@ -94,9 +94,27 @@
 
 ![eigh](Entrega4/graficos_de_promedios/grafico_de_promedios_EIGH.png)
 
+# Parte P05 : Matrices dispersas y complejidad computacional
 
+## Codigo Matriz Laplaciana
 
+### Matriz llena:
 
+'''
+def matriz_laplaciana(N, t=double):
+  e =  eye(N, dtype=t)-eye(N,N,1, dtype=t)
+  return e+e.T
+'''
 
+### Matriz dispersa:
 
+'''
+def matriz_laplaciana_sparse(N, t=double):
+  return sparse.eye(N, format="csr", dtype=t)*2 - sparse.eye(N, k=1, format="csr", dtype=t) - sparse.eye(N, k=-1, format="csr", dtype=t)
+'''
 
+# Gráficos:
+
+![matriz llena](Entrega5/grafico_matriz_llena.png)
+
+![matriz dispersa](Entrega5/grafico_matriz_dispersa.png)
