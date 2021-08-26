@@ -113,8 +113,13 @@ def matriz_laplaciana_sparse(N, t=double):
   return sparse.eye(N, format="csr", dtype=t)*2 - sparse.eye(N, k=1, format="csr", dtype=t) - sparse.eye(N, k=-1, format="csr", dtype=t)
 ```
 
-# Gráficos:
+## Gráficos:
 
 ![matriz llena](Entrega5/grafico_matriz_llena.png)
 
 ![matriz dispersa](Entrega5/grafico_matriz_dispersa.png)
+
+## Comentarios:
+
+* Se puede observar que la función de la matriz laplaciana llena es mucho mas ineficiente que la matriz laplaciana dispersa, pues ya a partir de N = 1000 se ve que la función le toma mas tiempo de resolver, haciendo calculos complicados que al final en este caso son innecesarios, en cambio la función de matriz laplaciana dispersa como usa un modelo mas óptimo, para este caso puede resolver de buena forma hasta aprox N = 10⁷ (cuando empieza a ponerse mas lento), pudiendo incluso resolver N = 1000000 en menos de 1 segundo.
+* En el caso de la multiplicación matricial se puede ver un caso interesante. En la multiplicación de la matriz llena es lo que le toma mas tiempo en resolver, ya que es mas caro que crear la matriz. Pero en el caso de la dispersa se ve que es al revés, el costo de crear la matriz es mayor que resolver la multiplicación, al tener Ns grandes. Esto puede ser que, al ser mas óptimo, usa menos memoria también, por lo que son menos datos que prosesar, al no guardar los 0 que en el caso de las matrices llenas lo considera (estos 0 son datos que usan más memoria y, por lo tanto, se procesan más datos y tiene mayor costo).
